@@ -1,0 +1,8 @@
+Platba taxikáři
+
+Napište program, který ze zadané ujeté vzdálenosti vypočte platbu taxikáři, jestliže má stanoveny následující sazby:
+0 – 19km = 25 Kč/km
+20 – 39km = 23 Kč/km
+40 – 59km = 20 Kč/km
+60km a více = 17 Kč/km
+
